@@ -1,4 +1,4 @@
-# Acceptable Use Policy (Sample)
+# Acceptable Use Policy
 
 ## Purpose
 To outline the acceptable use of IT resources within the organization.
